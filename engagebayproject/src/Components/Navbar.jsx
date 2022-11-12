@@ -86,11 +86,15 @@ function Navbar() {
                   onMouseEnter={onOpenProducts}
                   onMouseLeave={onCloseProducts}
                 >
-                  <MenuItem>New File</MenuItem>
-                  <MenuItem>New Window</MenuItem>
-                  <MenuDivider />
-                  <MenuItem>Open...</MenuItem>
-                  <MenuItem>Save File</MenuItem>
+                  <MenuItem>Marketing Automation</MenuItem>
+                  <MenuItem>Email Marketing</MenuItem>
+                  <MenuItem>Email Sequences</MenuItem>
+                  <MenuItem>Landing Pages</MenuItem>
+                  <MenuItem>Web Forms</MenuItem>
+                  <MenuItem>360 Degree Customer View</MenuItem>
+                  <MenuItem>Appoinment Scheduling</MenuItem>
+                  <MenuItem>Contact Mangament Software</MenuItem>
+                  <MenuItem>Why EngageBay CRM?</MenuItem>
                 </MenuList>
               </Menu>
             </Box>
@@ -116,11 +120,12 @@ function Navbar() {
                   onMouseEnter={onOpenResources}
                   onMouseLeave={onCloseResources}
                 >
-                  <MenuItem>New File</MenuItem>
-                  <MenuItem>New Window</MenuItem>
-                  <MenuDivider />
-                  <MenuItem>Open...</MenuItem>
-                  <MenuItem>Save File</MenuItem>
+                  <MenuItem>The Basics</MenuItem>
+                  <MenuItem>How To Choose</MenuItem>
+                  <MenuItem>Templates</MenuItem>
+                  <MenuItem>Traffic Generation Tips</MenuItem>
+                  <MenuItem>Landing Page Recipes</MenuItem>
+                  <MenuItem>Best Practices</MenuItem>
                 </MenuList>
               </Menu>
             </Box>
@@ -141,11 +146,10 @@ function Navbar() {
                   onMouseEnter={onOpenFreeTools}
                   onMouseLeave={onCloseFreeTools}
                 >
-                  <MenuItem>New File</MenuItem>
-                  <MenuItem>New Window</MenuItem>
-                  <MenuDivider />
-                  <MenuItem>Open...</MenuItem>
-                  <MenuItem>Save File</MenuItem>
+                  <MenuItem>UTM Builder</MenuItem>
+                  <MenuItem>Email Signature</MenuItem>
+                  <MenuItem>Email Tracker</MenuItem>
+                  <MenuItem>Email Validator</MenuItem>
                 </MenuList>
               </Menu>
             </Box>
