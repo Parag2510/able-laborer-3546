@@ -68,7 +68,7 @@ const [state, dispatch] = useReducer(reducer, initialState);
           console.log("done");
           dispatch({ type: "reset" });
           localStorage.setItem("user_login", JSON.stringify(...userLogin));
-          history("/");
+          history("/dashboard");
         }
       }
     }
@@ -85,7 +85,7 @@ const [state, dispatch] = useReducer(reducer, initialState);
                 m={"auto"}
                 mt={6}
                 src={
-                  "https://d2p078bqz5urf7.cloudfront.net/cloud/assets/img/engagebay.png"
+                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YCASGOjHa88SjGyJXjWOnfgNrmJieI-ZEw&usqp=CAU"
                 }
               />
               <Text fontSize={"4xl"}>Login</Text>

@@ -135,12 +135,12 @@ function BoxHover() {
     <Box w={"full"} mt={10} pt={10}>
       <Box w={"70%"} textAlign={"center"} my={10} m={"auto"}>
         <Heading opacity={1} mb={"25px"}>
-          Do It All With EngageBay
+          Do It All With PARAG MARKETING WORLD
         </Heading>
         <Text color={"#677294"} fontSize={"1.25rem"}>
           Stop paying thousands of dollars to dozens of marketing, sales, and
           support software. Experience the world's most affordable, unified
-          software. EngageBay's all-in-one CRM software is the most
+          software. PMW's all-in-one CRM software is the most
           comprehensive solution for your business.
         </Text>
       </Box>
