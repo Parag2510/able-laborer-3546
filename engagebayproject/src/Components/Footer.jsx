@@ -219,7 +219,7 @@ import {
                   <Image
                     w={"200px"}
                     h={"30px"}
-                    src="https://cdn5.engagebay.com/new/assets/img/engagebay-logo-white.svg"
+                    src="https://f.hubspotusercontent30.net/hubfs/7477789/pmw-2020.png"
                   />
                   <Text fontSize={"sm"}>
                     One platform for all your Marketing, Sales, and Support teams.

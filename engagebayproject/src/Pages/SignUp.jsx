@@ -95,7 +95,7 @@ console.log(vinay)
                 m={"auto"}
                 mt={6}
                 src={
-                  "https://d2p078bqz5urf7.cloudfront.net/cloud/assets/img/engagebay.png"
+                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YCASGOjHa88SjGyJXjWOnfgNrmJieI-ZEw&usqp=CAU"
                 }
               />
               <Text p={4} fontSize={19}>

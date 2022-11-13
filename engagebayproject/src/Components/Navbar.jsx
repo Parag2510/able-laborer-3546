@@ -7,7 +7,6 @@ import {
   MenuButton,
   MenuList,
   MenuItem,
-  MenuDivider,
   Button,
   useDisclosure,
 } from "@chakra-ui/react";
@@ -59,7 +58,7 @@ function Navbar() {
             w={"300px"}
             h={"30px"}
             mt={1}
-            src="https://www.engagebay.com/new/assets/img/engagebay-logo.svg"
+            src="https://f.hubspotusercontent30.net/hubfs/7477789/pmw-2020.png"
             alt="Engagebay Logo"
           />
         </Link>
