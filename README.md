@@ -17,10 +17,6 @@ This is the world most all in one marketing sales and automation platform.This w
 
 ![Engagebay_5](https://user-images.githubusercontent.com/105907169/192884808-3de0385c-0497-4df2-aecf-a8c659ce7ac6.png)
 
-- **Blog Page**
-
-![Engagebay_3](https://user-images.githubusercontent.com/105907169/192883626-0153545b-b074-42d9-822f-84b8f6982b37.png)
-
 - **Plans Page**
 
 ![Engagebay_4](https://user-images.githubusercontent.com/105907169/192883630-d5b34479-6f0b-4b84-b26c-b003334b989d.png)
